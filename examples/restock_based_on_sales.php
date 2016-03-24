@@ -176,7 +176,7 @@ print("
 <th>Catégorie</th>
 <th>id_taille</th>
 <th>Taille</th>
-<th>Vendus j-15</th>
+<th>Vendus j-17</th>
 <th>Vendus j-7</th>
 <th>Stock</th>
 <th>Alerte</th>
